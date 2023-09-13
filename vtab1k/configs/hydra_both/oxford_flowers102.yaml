@@ -1,0 +1,7 @@
+name: oxford_flowers102
+class_num: 102
+lr: 0.005
+wd: 0.0001
+scale: 0.1
+dropout: 0
+batchsize: 64

@@ -1,0 +1,7 @@
+name: oxford_iiit_pet
+class_num: 37
+lr: 0.001
+wd: 0.0001
+scale: 0.1
+dropout: 0
+batchsize: 32

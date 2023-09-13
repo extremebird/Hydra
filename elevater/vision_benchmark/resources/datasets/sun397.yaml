@@ -1,0 +1,8 @@
+# GPUS: (0,)
+
+DATASET:
+  DATASET: 'sun397'
+  ROOT: '/hdd/yhyun225/SUN397'
+  NUM_CLASSES: 397
+TEST:
+  METRIC: 'accuracy'

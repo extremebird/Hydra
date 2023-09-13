@@ -1,0 +1,7 @@
+name: resisc45
+class_num: 45
+lr: 0.005
+wd: 0.0001
+scale: 0.1
+dropout: 0.2
+batchsize: 64

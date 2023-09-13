@@ -1,0 +1,7 @@
+name: smallnorb_azi
+class_num: 18
+lr: 0.005
+wd: 0.00001
+scale: 3
+dropout: 0.2
+batchsize: 64

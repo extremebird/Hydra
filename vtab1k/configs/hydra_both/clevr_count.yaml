@@ -1,0 +1,7 @@
+name: clevr_count
+class_num: 8
+lr: 0.0005
+wd: 0.0001
+scale: 1.5
+dropout: 0.2
+batchsize: 64

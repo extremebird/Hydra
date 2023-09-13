@@ -1,0 +1,7 @@
+name: diabetic_retinopathy
+class_num: 5
+lr: 0.0005
+wd: 0.0001
+scale: 4.5
+dropout: 0.2
+batchsize: 64

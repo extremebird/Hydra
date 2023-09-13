@@ -1,0 +1,126 @@
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+### Vim template
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+
+### IPythonNotebook template
+# Temporary data
+B
+.ipynb_checkpoints/
+
+### Python template
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Workspace file
+*.code-workspace
+
+# Distribution / packaging
+.Python
+assets
+assets/*
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+#lib/
+#lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# B
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# *.ipynb
+*.params
+.vscode/
+*.code-workspace/
+
+lib/pycocotools/_mask.c
+lib/nms/cpu_nms.c
+
+# elevator
+OUTPUT
+OUTPUT/*
+models/*
+DATASET
+DATASET/*
+elevator/vision_benchmark/data1
+elevator/vision_benchmark/datasets
+elevator/vision_benchmark/pretrained
+elevator/vision_benchmark/ours
+elevator/vision_benchmark/ours_supervised
+elevator/analysis
+elevator/anaylsis/*
+
+# vtab
+vtab1k/__pycache__
+vtab1k/__pycache__/*
+vtab1k/data
+vtab1k/data/*
+vtab1k/models
+vtab1k/models/*
+vtab1k/logs
+vtab1k/logs/*
+vtab1k/scripts/sweep*
+vtab1k/analysis
+vtab1k/analysis/*
+
+# etc
+*.npz
+*.zip
+*.json
+!elevator/vision_benchmark/resources/datasets/vision_datasets.json
+

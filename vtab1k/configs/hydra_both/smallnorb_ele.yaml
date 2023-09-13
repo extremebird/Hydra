@@ -1,0 +1,7 @@
+name: smallnorb_ele
+class_num: 9
+lr: 0.0005
+wd: 0.0001
+scale: 1
+dropout: 0.2
+batchsize: 64
